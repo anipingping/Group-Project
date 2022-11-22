@@ -28,27 +28,24 @@ Each one of these other commitments taken alone would be super important and dem
 ## Communication Protocol
 Our group extensively used Slack. I maintained individual message threads with almost every group member and we maintained a detailed group channel. Additionally, the group used my Zoom account to hold in-person meetings and work sessions where we could share screens, review and resolve technical challenges, and discuss improvements to our dashboard. We tried to meet at least twice a week outside of class sessions. Some of us met separately more than twice a week to work on more specific tasks related to our assigned roles. It was sometimes difficult to align everyone's schedules but I am honestly not sure how that could possibly be resolved. We all have our own lives and commitments outside of this class.
 
-## Alice Medvedev
-Alice had the initial idea for this project and had a clear vision of what she wanted to accomplish. Alice is a very gifted coder who understands programming languages and syntax in a way that I haven't seen from most other people in our class. She is very intelligent and I have a lot of respect and admiration for the way her mind works and for her ambition to create a nuanced, sophisticated weather project. Additionally, Alice was the one who initially agreed to include me in this group. She understood my needs and seemed to appreciate my sincere interest in weather and in helping the group. 
+## Strenths as a Team
+I think every member of our group was highly motivated and sincerely wanted to do well on this project. We opted to present early in order to get bonus points. We met frequently and gave a lot of our evenings to this project. We each gave a sincere, honest effort despite whatever limitations we each may have had. I don't know how future cohorts will choose their groups but it is really important to have motivated people. 
 
-If I had one critique of Alice it would be for her to more fully appreciate the limitations of her colleagues and to try to help them a little more. As I leave this class and think about Alice and our group project I can't help but feel that I came up short and that I failed to meet her expectations. I would definitely work with her again. Whether she would want to work with me is another question!
+## Tips & Tricks
+Use Zoom or a meeting platform that allows members to share screens. This is critical. Use Git or Slack to share code files. Use Slack to post helpful links and research. Get every group member's phone number. Create an effective, shared Google Drive calendar that shows each group member's availability. Don't be afraid to speak up for yourself and let others know if/when you get stuck on something. Book tutoring sessions. Message the TAs. Pull every lever you can think of.
 
-## Laurina LaStella
-Laurina designated herself as the "task master" and I am grateful to her for that. Laurina kept people focused, kept notes on meetings, posted reminders and lists of tasks to our group Slack channel. Additionally, Laurina contributed important data wrangling work with Alice and helped to provide the data visualization specialists (me and Lili) with data files. Laurina is a seasoned professional who "gets it" when it comes to staying organized, working hard, and understanding what is needed to complete a project. 
-
-One critique I might have of Laurina might be to be even MORE MEAN when it comes to reminding people of the importance of attending meetings, completing work on time, and driving the group forward. I liked her leadership style and I wanted even more of it on occasion. I would definitely work with Laurina again and I thank her for her efforts. She was our chief operating officer.
-
-## Della Wong
-Della seemed very busy with her other commitments over the course of this project. I am not aware of any technical data wrangling, database management, or visualization/dashboard work that she contributed, but I know Della created the slides and basic layout for our group presentation. Della was often late to meetings and would ask the group to bring her up to speed on what the group had discussed while she was away. She would become sidetracked by logistical questions about grading or due dates that (in my personal opinion) were not important. These things used up too much of our limited time. I am not sure that I would want to work with Della on another project because I simply did not get a clear picture of her capabilities as a data scientist and I was frequently frustrated by her attendance record and her contributions to meetings.
-
-I am grateful to Della, however, because she forced me to develop more patience and understanding. I also missed several meetings because of conflicts. There were times when I did not understand what the group was discussing and would need to take the group's time to be brought up to speed. She helped me recognize my own limitations and thereby to have more patience with her and also with myself. 
-
-## Lili Han
+## Honorable Mention: My Colleague Lili Han
 Lili was my data visualization and dashboard colleague. I worked most closely with Lili to create the interactive dashboard that we presented in class. Lili helped me resolve almost every technical challenge that she and I encountered. Lili worked late hours. Lili would meet with me outside of the larger group meetings to conduct  work on our dashboard. Lili scheduled tutoring sessions, like me, to help our group move the project forward. Lili shared her phone number with me and we kept in regularly phone/text communication throughout the project. Lili had the ability to challenge Alice on a number of important technical obstacles that the group was encountering and to remind Alice that her original vision was probably not going to be feasible and that adjustments would have to be made. Lili was able to speak to our needs for data in a certain format in a way that was understandable and accurate. Lili was the all-star of our group. Lili had the technical ability and the basic sense of teamwork to create a successful project. She is also a very sweet, patient and gentle person and helped me in a number of ways. I would LOVE to work with Lili again and I hope to stay in touch with her in the future. She was a delight.
-
-
 
 Taken as a whole and based on what I have seen from the other groups who presented Monday night, I think our group did an outstanding job. We chose an interesting but technically complex project and resolved as many obstacles and challenges as we could with the time that we had and ultimately presented a clean, clear, functioning project on time. I am proud of my group.
 
 # Summary of Project
+## Topic Addressed
 The purpose of our group's project was to analyze past weather data at a given location to predict/describe the weather at that location. We called an API from https://open-meteo.com/en/docs/historical-weather-api to retrieve 20 years of weather data. We created an interactive dashboard that presented the historic weather in a way that a front-end user could quickly consume. We also created a user-inputted query feature that would utilize machine learning to predict/categorize the weather and return that information back to the user. 
+
+## Machine Module Used
+Our group used unsupervised machine learning to cluster weather conditions by category and return to a front-end user a prediction or categorization of the weather they would be likely to encounter at a given location for a given time range.
+
+## Results of the Analysis
+The functioning Weather History app is available here: https://funwithweather.herokuapp.com/
+Our group's data visualization/dashboard of historic weather patterns for 8 selected locations is available here: https://lilyhanhub.github.io/Weather_Data_Analysis/
