@@ -31,6 +31,8 @@ Our group extensively used Slack. I maintained individual message threads with a
 ## Strenths as a Team
 I think every member of our group was highly motivated and sincerely wanted to do well on this project. We opted to present early in order to get bonus points. We met frequently and gave a lot of our evenings to this project. We each gave a sincere, honest effort despite whatever limitations we each may have had. I don't know how future cohorts will choose their groups but it is really important to have motivated people. 
 
+Additionally, we had some very talented individuals in our group. Alice Medvedev is a very gifted computer scientist. Laurina LaStella is a seasoned professional with good communication and organizational skills. Lili Han and I developed a delightful collaboration on our group's dashboard. 
+
 ## Tips & Tricks
 Use Zoom or a meeting platform that allows members to share screens. This is critical. Use Git or Slack to share code files. Use Slack to post helpful links and research. Get every group member's phone number. Create an effective, shared Google Drive calendar that shows each group member's availability. Don't be afraid to speak up for yourself and let others know if/when you get stuck on something. Book tutoring sessions. Message the TAs. Pull every lever you can think of.
 
@@ -47,5 +49,6 @@ The purpose of our group's project was to analyze past weather data at a given l
 Our group used unsupervised machine learning to cluster weather conditions by category and return to a front-end user a prediction or categorization of the weather they would be likely to encounter at a given location for a given time range.
 
 ## Results of the Analysis
-The functioning Weather History app is available here: https://funwithweather.herokuapp.com/
-Our group's data visualization/dashboard of historic weather patterns for 8 selected locations is available here: https://lilyhanhub.github.io/Weather_Data_Analysis/
+The functioning Weather History app is available here: https://funwithweather.herokuapp.com/.
+
+Our group's data visualization/dashboard of historic weather patterns for 8 selected locations is available here: https://lilyhanhub.github.io/Weather_Data_Analysis/.
